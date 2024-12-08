@@ -289,13 +289,9 @@ footer .social a:hover {
 }
 
 .beneficio img {
-    width: 80px;
-    height: 80px;
+    width: 100%;
+    border-radius: 8px;
     margin-bottom: 15px;
-    border-radius: 50%; /* Se quiser, deixe os ícones arredondados */
-    background-color: #1e1e1e;
-    padding: 10px;
-}
 
 .beneficio h3 {
     font-size: 1.5em;
